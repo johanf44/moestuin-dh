@@ -1,9 +1,11 @@
 # Documentation orientation on measuring and controlling in the vegetable garden using sensors
 
 Overview of points of interest and options for automating certain tasks in the garden using sensors. Any updates to the document will be published here.
+
 April 13th 2024:
 
-<a href="https://johanf44.github.io/moestuin-dh/blob/main/Using%20sensors%20in%20the%20vegetable%20garden.pdf">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
+
+<a href="https://johanf44.github.io/moestuin-dh/Using%20sensors%20in%20the%20vegetable%20garden.pdf">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
 
 
 # Document oriëntatie op meten en sturen in de groententuin met behulp van sensoren

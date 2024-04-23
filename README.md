@@ -7,6 +7,9 @@ Version: April 23rd 2024
 <a href="https://bit.ly/document-mh-sensors-en">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
 
 
+<a href="https://bit.ly/document-mh-sensors-en">
+<img src="Thumbnail Engels.png"></a>
+
 <br><br>
 
 
@@ -18,6 +21,9 @@ Eventuele updates van het document worden hier gepubliceerd.
 Versie: 16 oktober 2023
 
 <a href="https://bit.ly/document-mh-sensoren">Orientatie sensoren in de tuin</a> (pdf, 9mb)
+
+<a href="https://bit.ly/document-mh-sensoren">
+<img src="Thumbnail Nederlands.png"></a>
 
 
 [Home](https://johanf44.github.io/moestuin-dh/) 

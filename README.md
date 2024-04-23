@@ -6,6 +6,10 @@ Version: April 23rd 2024
 
 <a href="https://johanf44.github.io/moestuin-dh/Using%20sensors%20in%20the%20vegetable%20garden.pdf">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
 
+
+<br><br>
+
+
 ## Dutch 🇳🇱 <br><br> Document oriëntatie op meten en sturen in de groententuin met behulp van sensoren
 
 Overzicht met aandachtspunten en mogelijkheden voor het automatiseren van bepaalde taken in de tuin met behulp van sensoren. 

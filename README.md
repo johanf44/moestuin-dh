@@ -1,6 +1,6 @@
 ## English 🇬🇧 <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
 
-Document made as an orientation on possibilities of automation in the vegetable garden. Overview of points of interest and options for automating certain tasks. Any updates to the document will be published here.
+Document made as an orientation on possibilities of automation in the vegetable garden with a focus on low cost solutions and for medium sized garden, for instance Community Supported Agriculture. Overview of points of interest and options for automating certain tasks. Any updates to the document will be published here.
 
 Version: April 23rd 2024
 

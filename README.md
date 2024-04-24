@@ -1,5 +1,7 @@
+---
 layout: page
 title: "Automation in the vegetable garden"
+---
 
 ## English 🇬🇧 <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
 

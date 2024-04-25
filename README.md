@@ -6,7 +6,7 @@ permalink: /index.html
 
 ---
 
-# Automation in the vegetable garden
+# <span style="color:#570602;">Automation in the vegetable garden</span>
 
 ## English 🇬🇧 <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
 

@@ -1,6 +1,7 @@
 ---
 
 Title: Automation in the medium sized vegetable garden
+Description: Autotest
 
 ---
 

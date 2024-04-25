@@ -1,7 +1,7 @@
 ---
 
-Title: Automation in the medium sized vegetable garden
-Description: Autotest
+title: Automation in the vegetable garden
+description: Autotest
 
 ---
 

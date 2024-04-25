@@ -18,7 +18,7 @@ The document covers:
 - Actuators to (automatically) carry out tasks like hoop house roll up motors, window openers
 - Electricity solutions (power grid or solar and battery)
 - Internet options (line or mobile via SIM card)
-- Wired communication vs wireless communication
+- Wired communication vs wireless communication, LoraWAN in particular
 - Options for remote access of data
 - Software packages like Orisha, Home Assistant and others
 - Discusses open source vs commercial vendors, Cloud vs local solutions

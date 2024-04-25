@@ -1,8 +1,6 @@
 ---
-
 title: Automation in the vegetable garden
 description: Autotest
-
 ---
 
 

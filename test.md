@@ -1,8 +1,9 @@
 ---
-title: Automation in the vegetable garden
-description: Autotest
----
 
+title: Automation in the vegetable garden
+description: Pdf document with options and points to consider when using automation in the garden with the use of sensors and software. 
+
+---
 
 ## English 🇬🇧 <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
 

@@ -28,7 +28,7 @@ Any updates to the document will be published here.
 
 Version: April 23rd 2024
 
-Download: <a href="https://bit.ly/document-mh-sensors-en">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
+Download: <a href="https://johanf44.github.io/moestuin-dh/Using%20sensors%20in%20the%20vegetable%20garden.pdf">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
 
 
 

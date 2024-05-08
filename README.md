@@ -22,7 +22,7 @@ The document covers:
 - Options for remote access of data
 - Software packages like Orisha, Home Assistant and others
 - Discusses open source vs commercial vendors, Cloud vs local solutions
-- Attention to how to check whether sensors are showing right value
+- Attention to the need to verify whether sensors are showing right value with reference values (calibration)
 
 Any updates to the document will be published here.
 

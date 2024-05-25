@@ -19,6 +19,7 @@ The document covers:
 - Electricity solutions (power grid or solar and battery)
 - Internet options (line or mobile via SIM card)
 - Wired communication vs wireless communication, LoraWAN in particular
+- Background on theory of humidity control
 - Options for remote access of data
 - Software packages like Orisha, Home Assistant and others
 - Discusses open source vs commercial vendors, Cloud vs local solutions

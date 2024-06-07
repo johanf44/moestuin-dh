@@ -39,7 +39,7 @@ Download: <a href="https://bit.ly/document-mh-sensors-en">Orientation on measuri
 <br><br>
 
 
-## Nederlands 🇳🇱 <br><br> Document oriëntatie op meten en sturen in de groententuin met behulp van sensoren
+## Nederlands 🇳🇱 <br><br> Document oriëntatie op meten en sturen in de groententuin met behulp van sensoren {#nederlands} 
 
 Overzicht met aandachtspunten en mogelijkheden voor het automatiseren van bepaalde taken in de tuin met behulp van sensoren. 
 Eventuele updates van het document worden hier gepubliceerd. 

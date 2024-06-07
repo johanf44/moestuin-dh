@@ -8,7 +8,7 @@ permalink: /index.html
 
 # <span style="color:#570602;">Automation in the vegetable garden</span>
 
-## English 🇬🇧 <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
+## English 🇬🇧 <a href="#nederlands" style="text-size:12px">Nederlands<a/> <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
 
 Document made as an orientation on possibilities of automation in the vegetable garden with a focus on low cost solutions and for medium sized vegetable gardens and greenhouses in particular. For instance Community Supported Agriculture. Overview of points to consider and options for automating certain tasks.
 

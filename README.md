@@ -27,7 +27,7 @@ The document covers:
 
 Any updates to the document will be published here.
 
-Version: April 23rd 2024
+Version: July 23rd 2024
 
 Download: <a href="https://bit.ly/document-mh-sensors-en">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
 

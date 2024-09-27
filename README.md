@@ -6,6 +6,8 @@ permalink: /index.html
 
 ---
 
+
+
 # <span style="color:#570602;">Automation in the vegetable garden</span>
 
 ## English 🇬🇧 <a href="#nederlands" style="font-size:15px">Nederlands 🇳🇱<a/> <br><br> Documentation - orientation on measuring and controlling in the vegetable garden using sensors
@@ -29,11 +31,11 @@ Any updates to the document will be published here.
 
 Version: July 23rd 2024
 
-Download: <a href="https://bit.ly/document-mh-sensors-en">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
+Download: <a href="https://johanf44.github.io/moestuin-dh/Using%20sensors%20in%20the%20vegetable%20garden.pdf">Orientation on measuring and controlling in the vegetable garden using sensors</a> (pdf, 9mb)
 
 
 
-<a href="https://bit.ly/document-mh-sensors-en">
+<a href="https://johanf44.github.io/moestuin-dh/Using%20sensors%20in%20the%20vegetable%20garden.pdf">
 <img src="Thumbnail Engels.png" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;"></a>
 
 <br><br>
@@ -46,9 +48,9 @@ Eventuele updates van het document worden hier gepubliceerd.
 
 Versie: 16 oktober 2023
 
-<a href="https://bit.ly/document-mh-sensoren">Orientatie sensoren in de tuin</a> (pdf, 9mb)
+<a href="https://johanf44.github.io/moestuin-dh/Sensoren%20moestuin%20de%20Haar.pdf">Orientatie sensoren in de tuin</a> (pdf, 9mb)
 
-<a href="https://bit.ly/document-mh-sensoren">
+<a href="https://johanf44.github.io/moestuin-dh/Sensoren%20moestuin%20de%20Haar.pdf">
 <img src="Thumbnail Nederlands.png" style="box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;"></a>
 
 

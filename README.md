@@ -3,6 +3,10 @@
 title: Automation in the vegetable garden
 description: Pdf document with options and points to consider when using automation in the garden with the use of sensors and software. 
 permalink: /index.html
+output:
+  html_document:
+    includes: 
+      in_header: GA_script.html
 
 ---
 
